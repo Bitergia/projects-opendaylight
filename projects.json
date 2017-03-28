@@ -203,13 +203,13 @@
             "https://git.opendaylight.org/gerrit/yangtools"
         ],
         "gerrit": [
-            "git.opendaylight.org/gerrit/"
+            "git.opendaylight.org"
         ],
         "jenkins": [
-            "https://jenkins.opendaylight.org/"
+            "https://jenkins.opendaylight.org/releng"
         ],
         "mediawiki": [
-            "https://wiki.opendaylight.org/view/Main_Page"
+            "https://wiki.opendaylight.org"
         ],
         "meta": {
             "title": "opendaylight"
